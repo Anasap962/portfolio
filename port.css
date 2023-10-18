@@ -11,8 +11,10 @@
 }
 
 :root{
-    --bg-color:#2a2a2a;
-    --second-bg-color:#202020;
+    /* --bg-color:#2a2a2a; */
+    --bg-color:#000000;
+    /* --second-bg-color:#202020; */
+      --second-bg-color:#000000; 
     --text-color:#fff;
     --second-color:#ccc;
     --main-color:rgba(108, 214, 221, 0.753);
@@ -93,7 +95,7 @@ section{
     position: relative;
     height: 100vh;
     width: 100%;
-     background-image:url("pexels-andrew-neel-2312369.jpg"); 
+     background-image:url("pexels-cottonbro-studio-4709285.jpg"); 
     background-size: cover;
     background-position: center;
     display: flex;
