@@ -15,7 +15,7 @@
     --second-bg-color:#202020;
     --text-color:#fff;
     --second-color:#ccc;
-    --main-color:rgb(255,98,0);
+    --main-color:rgba(108, 214, 221, 0.753);
     --big-font:5rem;
     --h1-font:5.2rem;
     --h2-font:3.5rem;
@@ -93,7 +93,7 @@ section{
     position: relative;
     height: 100vh;
     width: 100%;
-     background-image:url("bg.jpg"); 
+     background-image:url("pexels-andrew-neel-2312369.jpg"); 
     background-size: cover;
     background-position: center;
     display: flex;
